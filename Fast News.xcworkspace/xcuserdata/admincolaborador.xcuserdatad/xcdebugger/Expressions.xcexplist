@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "BaseViewController.saveFavoriteNews(_:):BaseViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "favoriteNews">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "closure #1 in HotNewsProvider.hotNews(_:completion:):HotNewsProvider.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "isPaginating">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "FeedView.tableView(_:numberOfRowsInSection:):FeedView.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "viewModels.count">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "FeedViewController.hotNews.didset:FeedViewController.swift">
+      </ContextState>
+      <ContextState
+         contextName = "FeedView.scrollViewDidScroll(_:):FeedView.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "viewModels.count">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "HotNewsProvider.favoriteNews(_:completion:):HotNewsProvider.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "fetchedResultCtrl">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "FeedViewController.getNextPage(afert:):FeedViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "hotNews.count">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "closure #1 in FeedViewController.getNextPage(afert:):FeedViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "hotNews">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "FeedCell.setBookMark(_:):FeedCell.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "viewModel">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
